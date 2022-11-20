@@ -1,0 +1,38 @@
+.bold {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+.area {
+  background-color: lightgray;
+  margin: 70px 7vw 0px 7vw;
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+  border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  -webkit-border-radius: 20px;
+}
+
+.test {
+  width: 90%;
+  z-index: 0;
+}
+
+.audio {
+  width: 100%;
+  z-index: 0;
+}
+
+.autor {
+  margin-bottom: 1rem;
+}
+
+.descricao {
+  margin-top: 1rem;
+}
